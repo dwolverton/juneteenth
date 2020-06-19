@@ -1,0 +1,663 @@
+[
+  {
+    "text": [
+      "Never be limited by other people’s limited imaginations."
+    ],
+    "source": "Dr. Mae Jemison",
+    "sourceTagline": "first African-American female astronaut",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Mae_Carol_Jemison.jpg",
+    "photoAttribution": "NASA / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "It’s important for us to also understand that the phrase ‘Black Lives Matter’ simply refers to the notion that there’s a specific vulnerability for African Americans that needs to be addressed. It’s not meant to suggest that other lives don’t matter. It’s to suggest that other folks aren’t experiencing this particular vulnerability."
+    ],
+    "source": "Barack Obama",
+    "sourceTagline": null,
+    "date": {
+      "year": 2016,
+      "exact": "2016-07-14"
+    },
+    "photo": "/api/images/Barack_Obama.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg / Creative Commons 3.0 License (https://creativecommons.org/licenses/by/3.0/)",
+    "details": ""
+  },
+  {
+    "text": [
+      "No country can ever truly flourish if it stifles the potential of its women and deprives itself of the contributions of half of its citizens."
+    ],
+    "source": "Michelle Obama",
+    "sourceTagline": null,
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "How pitiable is it to reflect, that although you were so fully convinced of the benevolence of the Father of Mankind, and of his equal and impartial distribution of these rights and privileges, which he hath conferred upon them, that you should at the same time counteract his mercies, in detaining by fraud and violence so numerous a part of my brethren, under groaning captivity and cruel oppression, that you should at the same time be found guilty of that most criminal act, which you professedly detested in others, with respect to yourselves."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "Letter to Thomas Jerrerson",
+    "date": {
+      "year": 1791,
+      "exact": "1791-08-19"
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+  },
+  {
+    "text": [
+      "I am of the African race, and in the colour which is natural to them of the deepest dye; and it is under a sense of the most profound gratitude to the Supreme Ruler of the Universe."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "Letter to Thomas Jerrerson",
+    "date": {
+      "year": 1791,
+      "exact": "1791-08-19"
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+  },
+  {
+    "text": [
+      "The colour of the skin is in no way connected with strength of the mind or intellectual powers."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": null
+  },
+  {
+    "text": [
+      "I'm sure they have nothing whatever against Negroes, but that's really not the question, you know. The question is really a kind of apathy and ignorance, which is the price we paid for segregation. It's what segregation means, you don't know what's happening on the other side of the wall because you don't want to know."
+    ],
+    "source": "James Baldwin",
+    "sourceTagline": "I am not your Negro",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/James_Baldwin.jpg",
+    "photoAttribution": "Allan warren / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "There are so many ways of being despicable it quite makes one’s head spin. But the way to be really despicable is to be contemptuous of other people’s pain."
+    ],
+    "source": "James Baldwin",
+    "sourceTagline": "Giovanni's Room",
+    "date": {
+      "year": 1956,
+      "exact": null
+    },
+    "photo": "/api/images/James_Baldwin.jpg",
+    "photoAttribution": "Allan warren / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "Ignorance allied with power is the most ferocious enemy justice can have."
+    ],
+    "source": "James Baldwin",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/James_Baldwin.jpg",
+    "photoAttribution": "Allan warren / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "Not everything that is faced can be changed, but nothing can be changed until it is faced."
+    ],
+    "source": "James Baldwin",
+    "sourceTagline": "",
+    "date": {
+      "year": 1962,
+      "exact": null
+    },
+    "photo": "/api/images/James_Baldwin.jpg",
+    "photoAttribution": "Allan warren / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "My humanity is bound up in yours, for we can only be human together."
+    ],
+    "source": "Archbishop Desmond Tutu",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Archbishop-Tutu.jpg",
+    "photoAttribution": "Public Domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "If you are neutral in situations of injustice, you have chosen the side of the oppressor."
+    ],
+    "source": "Archbishop Desmond Tutu",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Archbishop-Tutu.jpg",
+    "photoAttribution": "Public Domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "Hate. It has caused a lot of problems in the world, but it has not solved one yet."
+    ],
+    "source": "Maya Angelou",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Maya_Angelou.jpg",
+    "photoAttribution": "York College ISLGP / CC BY (https://creativecommons.org/licenses/by/2.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "You may write me down in history with your bitter, twisted lines. You may trod me in the very dirt, but still, like dust, I'll rise."
+    ],
+    "source": "Maya Angelou",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Maya_Angelou.jpg",
+    "photoAttribution": "York College ISLGP / CC BY (https://creativecommons.org/licenses/by/2.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
+    ],
+    "source": "Maya Angelou",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Maya_Angelou.jpg",
+    "photoAttribution": "York College ISLGP / CC BY (https://creativecommons.org/licenses/by/2.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "The way to right wrongs is to turn the light of truth upon them."
+    ],
+    "source": "Ida B. Wells-Barnett",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Ida_B._Wells.jpg",
+    "photoAttribution": "Barnett / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "To ignore evil is to become accomplice to it."
+    ],
+    "source": "Martin Luther King, Jr.",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Martin_Luther_King_Jr.jpg",
+    "photoAttribution": "Dick DeMarsico, World Telegram staff photographer / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "There comes a time when silence is betrayal."
+    ],
+    "source": "Martin Luther King, Jr.",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Martin_Luther_King_Jr.jpg",
+    "photoAttribution": "Dick DeMarsico, World Telegram staff photographer / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "There comes a time when one must take a position that is neither safe, nor politic, not popular, but he must take it because his conscience tells him it's right."
+    ],
+    "source": "Martin Luther King, Jr.",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Martin_Luther_King_Jr.jpg",
+    "photoAttribution": "Dick DeMarsico, World Telegram staff photographer / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "The time is always right to do what is right."
+    ],
+    "source": "Martin Luther King, Jr.",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Martin_Luther_King_Jr.jpg",
+    "photoAttribution": "Dick DeMarsico, World Telegram staff photographer / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "I believe there is only one race - the human race."
+    ],
+    "source": "Rosa Parks",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Rosaparks.jpg",
+    "photoAttribution": "Public Domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "You must never be fearful about what you are doing when it is right."
+    ],
+    "source": "Rosa Parks",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Rosaparks.jpg",
+    "photoAttribution": "Public Domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "If there is no struggle there is no progress."
+    ],
+    "source": "Frederick Douglas",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Frederick_Douglass.jpg",
+    "photoAttribution": "Public Domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "It always seems impossible until it's done."
+    ],
+    "source": "Nelson Mandela",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "When I was young, I said to God, 'God, tell me the mystery of the universe.'",
+      "But God answered, 'That knowledge is for me alone.'",
+      "So I said, 'God, tell me the mystery of the peanut.'",
+      "Then God said, 'Well George, that's more nearly your size.' And he told me."
+    ],
+    "source": "George Washington Carver",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/George_Washington_Carver.jpg",
+    "photoAttribution": "Arthur Rothstein (for U.S. Farm Security Administration) / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "Education is the key to unlock the golden door of freedom."
+    ],
+    "source": "George Washington Carver",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/George_Washington_Carver.jpg",
+    "photoAttribution": "Arthur Rothstein (for U.S. Farm Security Administration) / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "In these strenuous times, we are likely to become morbid and look constantly on the dark side of life, and spend entirely too much time considering and brooding over what we can't do, rather than what we can do, and instead of growing morose and despondent over opportunities either real or imaginary that are shut from us, let us rejoice at the many unexplored fields in which there is unlimited fame and fortune to the successful explorer and upon which there is no color line; simply the survival of the fittest."
+    ],
+    "source": "George Washington Carver",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/George_Washington_Carver.jpg",
+    "photoAttribution": "Arthur Rothstein (for U.S. Farm Security Administration) / Public domain",
+    "details": ""
+  },
+  {
+    "text": [
+      "I raise up my voice not so I can shout, but so that those without a voice can be heard. We cannot succeed when half of us are held back."
+    ],
+    "source": "Malala Yousafzai",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "First they ignore you, then they laugh at you, then they fight you, then you win."
+    ],
+    "source": "Mahatma Gandhi",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "The difference between what we do and what we are capable of doing would suffice to solve most of the world’s problems."
+    ],
+    "source": "Mahatma Gandhi",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "It’s my conviction that nothing enduring can be built on violence."
+    ],
+    "source": "Mahatma Gandhi",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Change yourself – you are in control."
+    ],
+    "source": "Mahatma Gandhi",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Without action, you aren’t going anywhere."
+    ],
+    "source": "Mahatma Gandhi",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "No human being is illegal."
+    ],
+    "source": "Elie Wiesel",
+    "sourceTagline": "Author, Holocaust survivor",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it is the only thing that ever has."
+    ],
+    "source": "Margaret Mead",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/Margaret_Mead.jpg",
+    "photoAttribution": "Smithsonian Institution from United States / No restrictions",
+    "details": ""
+  },
+  {
+    "text": [
+      "There are some people who still feel threatened by strong women. That's their problem. It's not mine."
+    ],
+    "source": "Gloria Allred",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Whenever one person stands up and says, 'Wait a minute, this is wrong,' it helps other people do the same."
+    ],
+    "source": "Gloria Steinem",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "No one can make you feel inferior without your consent."
+    ],
+    "source": "Eleanor Roosevelt",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "It is better to light a candle than curse the darkness."
+    ],
+    "source": "Eleanor Roosevelt",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face."
+    ],
+    "source": "Eleanor Roosevelt",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Do what you feel in your heart to be right – for you’ll be criticized anyway. You’ll be damned if you do, and damned if you don’t."
+    ],
+    "source": "Eleanor Roosevelt",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "You cannot escape the responsibility of tomorrow by evading it today."
+    ],
+    "source": "Abraham Lincoln",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Those who deny freedom to others deserve it not for themselves."
+    ],
+    "source": "Abraham Lincoln",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "The world will not be destroyed by those who do evil, but by those who watch them without doing anything."
+    ],
+    "source": "Albert Einstein",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "We must scrupulously guard the civil rights and civil liberties of all citizens, whatever their background. We must remember that any oppression, any injustice, any hatred, is a wedge designed to attack our civilization."
+    ],
+    "source": "Franklin Delano Roosevelt",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Justice will not be served until those who are unaffected are as outraged as those who are."
+    ],
+    "source": "Benjamin Franklin",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  },
+  {
+    "text": [
+      "Human rights are not optional."
+    ],
+    "source": "Gabe Galanda",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "",
+    "photoAttribution": "",
+    "details": ""
+  }
+]
