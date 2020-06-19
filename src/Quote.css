@@ -1,0 +1,66 @@
+.Quote__image {
+  background-color: black;
+  height: 300px;
+  position: relative;
+  font-size: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.Quote__image img {
+  height: 300px;
+}
+
+.Quote__image figcaption {
+  position: absolute;
+  bottom: 6px;
+  left: 0;
+  right: 0;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, .5);
+  padding-bottom: 2px;
+}
+
+.Quote__image span {
+  display: block;
+  font-size: 20px;
+  margin: 0 1%;
+}
+
+.Quote__image__sourceTagline {
+  border-top: 2px solid #fce21b;
+}
+
+.Quote__image span.Quote__image__date {
+  border-top: 2px solid #fce21b;
+  font-size: 16px;
+}
+
+.Quote__text {
+  padding: 0 1em;
+}
+
+.Quote__text::before {
+  content: '"';
+  float: left;
+  font-size: 50px;
+  font-family: cursive;
+  margin: -.3em 8px 0 -5px;
+  display: block;
+  height: .8em;
+  color: #333;
+}
+
+.Quote__details {
+  padding: 0 1em;
+  font-style: italic;
+  margin: 24px 0 0;
+}
+
+.Quote__photoAttribution {
+  background-color: black;
+  color: white;
+  padding: 3px;
+}

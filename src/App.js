@@ -1,25 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
+import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import QuoteRoute from './QuoteRoute';
 import './App.css';
 
 function App() {
+  const [quotes, setQuotes] = useState([]);
+  useEffect(() => {
+    fetch('/api/quotes.json').then(r => r.json()).then(setQuotes);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Router>
+        <div className="App">
+          <Switch>
+            <Route path="/:quoteId">
+              <QuoteRoute quotes={quotes} />
+            </Route>
+            <Redirect to="/0" />
+          </Switch>
+      </div>
+      </Router>
   );
 }
 
