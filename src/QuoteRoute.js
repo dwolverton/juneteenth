@@ -9,7 +9,7 @@ export default ({quotes}) => {
   quoteId = parseInt(quoteId);
   const quote = quotes[parseInt(quoteId)];
   const prevLink = quoteId > 0 ? ("/" + (quoteId - 1)) : null;
-  const nextLink = quoteId < quotes.length ? ("/" + (quoteId + 1)) : null;
+  const nextLink = quoteId < quotes.length - 1 ? ("/" + (quoteId + 1)) : null;
 
   return <div className="QuoteRoute">
     {prevLink && <Link to={prevLink} className="nav nav-prev">&lt;</Link> }

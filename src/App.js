@@ -18,7 +18,7 @@ function App() {
             </Route>
             <Redirect to="/0" />
           </Switch>
-      </div>
+        </div>
       </Router>
   );
 }

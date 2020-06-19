@@ -40,6 +40,7 @@
 
 .Quote__text {
   padding: 0 1em;
+  font-size: 120%;
 }
 
 .Quote__text::before {
@@ -50,7 +51,7 @@
   margin: -.3em 8px 0 -5px;
   display: block;
   height: .8em;
-  color: #333;
+  color: #999;
 }
 
 .Quote__details {
