@@ -34,8 +34,8 @@
     "source": "Michelle Obama",
     "sourceTagline": null,
     "date": {
-      "year": null,
-      "exact": null
+      "year": 2014,
+      "exact": "2014-07-30"
     },
     "photo": "",
     "photoAttribution": "",
@@ -74,9 +74,9 @@
       "The colour of the skin is in no way connected with strength of the mind or intellectual powers."
     ],
     "source": "Benjamin Banneker",
-    "sourceTagline": "",
+    "sourceTagline": "Banneker's Almanac",
     "date": {
-      "year": null,
+      "year": 1796,
       "exact": null
     },
     "photo": "/api/images/Benjamin_banneker.jpg",
@@ -116,9 +116,9 @@
       "Ignorance allied with power is the most ferocious enemy justice can have."
     ],
     "source": "James Baldwin",
-    "sourceTagline": "",
+    "sourceTagline": "No Name in the Street",
     "date": {
-      "year": null,
+      "year": 1972,
       "exact": null
     },
     "photo": "/api/images/James_Baldwin.jpg",

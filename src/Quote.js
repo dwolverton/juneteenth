@@ -1,9 +1,11 @@
 import React from 'react';
+import moment from 'moment';
+import Linkify from 'react-linkify';
 import './Quote.css';
 
 export default ({quote}) => {
 
-  const date = quote.date.exact ? new Date(quote.date.exact).toLocaleDateString() : quote.date.year;
+  const date = quote.date.exact ? moment(quote.date.exact).format('LL') : quote.date.year;
 
   return <main className="Quote">
     <figure className="Quote__image">
@@ -17,7 +19,9 @@ export default ({quote}) => {
     <div className="Quote__text">
       {quote.text.map((text, i) => <p key={i}>{text}</p>)}
     </div>
-    { quote.details && <p className="Quote__details">{quote.details}</p>}
-    { quote.photoAttribution && <p className="Quote__photoAttribution">Photo attribution: {quote.photoAttribution}</p> }
+    { quote.details && <p className="Quote__details"><Linkify>{quote.details}</Linkify></p>}
+    { quote.photoAttribution && <p className="Quote__photoAttribution">
+        Photo attribution: <Linkify>{quote.photoAttribution}</Linkify>
+      </p> }
   </main>
 }
