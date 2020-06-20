@@ -1,20 +1,22 @@
 import React from 'react';
 import moment from 'moment';
 import Linkify from 'react-linkify';
+import API_BASE_URL from './apiBaseUrl';
 import './Quote.css';
 
-export default ({quote}) => {
+export default ({quote, navButtons}) => {
 
   const date = quote.date.exact ? moment(quote.date.exact).format('LL') : quote.date.year;
 
   return <main className="Quote">
     <figure className="Quote__image">
-      { quote.photo && <img src={quote.photo} alt={quote.source}/> }
+      { quote.photo && <img src={API_BASE_URL + quote.photo} alt={quote.source}/> }
       <figcaption>
         <span className="Quote__image__source">{quote.source}</span>
         { quote.sourceTagline && <span className="Quote__image__sourceTagline">{quote.sourceTagline}</span>}
         { date && <span className="Quote__image__date">{date}</span> }
       </figcaption>
+      {navButtons}
     </figure>
     <div className="Quote__text">
       {quote.text.map((text, i) => <p key={i}>{text}</p>)}

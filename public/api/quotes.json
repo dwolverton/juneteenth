@@ -382,6 +382,34 @@
   },
   {
     "text": [
+      "Tomorrow may be fair, however stormy the sky of today."
+    ],
+    "source": "Lewis Howard Latimer",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/lewis-latimer.gif",
+    "photoAttribution": "NPS Photo https://www.nps.gov/edis/learn/kidsyouth/the-gifted-men-who-worked-for-edison.htm",
+    "details": ""
+  },
+  {
+    "text": [
+      "We create our future, by well improving present opportunities: however few and small they are."
+    ],
+    "source": "Lewis Howard Latimer",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": "/api/images/lewis-latimer.gif",
+    "photoAttribution": "NPS Photo https://www.nps.gov/edis/learn/kidsyouth/the-gifted-men-who-worked-for-edison.htm",
+    "details": ""
+  },
+  {
+    "text": [
       "I raise up my voice not so I can shout, but so that those without a voice can be heard. We cannot succeed when half of us are held back."
     ],
     "source": "Malala Yousafzai",
@@ -390,8 +418,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Malala_Yousafzai.jpg",
+    "photoAttribution": "Russell Watkins/Department for International Development / CC BY (https://creativecommons.org/licenses/by/2.0)",
     "details": ""
   },
   {
@@ -404,8 +432,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Mohandas_K._Gandhi.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -418,8 +446,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Mohandas_K._Gandhi.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -432,8 +460,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Mohandas_K._Gandhi.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -446,8 +474,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Mohandas_K._Gandhi.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -460,8 +488,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Mohandas_K._Gandhi.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {

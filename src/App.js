@@ -2,12 +2,19 @@ import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 import QuoteRoute from './QuoteRoute';
 import './App.css';
+import fetchQuotes from './fetchQuotes';
+
+
 
 function App() {
   const [quotes, setQuotes] = useState([]);
   useEffect(() => {
-    fetch('/api/quotes.json').then(r => r.json()).then(setQuotes);
+    fetchQuotes().then(setQuotes);
   }, []);
+
+  if (!quotes.length) {
+    return null;
+  }
 
   return (
       <Router>
@@ -16,7 +23,7 @@ function App() {
             <Route path="/:quoteId">
               <QuoteRoute quotes={quotes} />
             </Route>
-            <Redirect to="/0" />
+            <Redirect to={"/" + quotes[0].key} />
           </Switch>
         </div>
       </Router>

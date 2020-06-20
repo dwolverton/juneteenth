@@ -6,14 +6,15 @@ import './QuoteRoute.css';
 
 export default ({quotes}) => {
   let { quoteId } = useParams();
-  quoteId = parseInt(quoteId);
-  const quote = quotes[parseInt(quoteId)];
-  const prevLink = quoteId > 0 ? ("/" + (quoteId - 1)) : null;
-  const nextLink = quoteId < quotes.length - 1 ? ("/" + (quoteId + 1)) : null;
+  const quoteIndex = quotes.findIndex(quote => quote.key === quoteId) || 0;
+  const quote = quotes[quoteIndex];
+  const prevLink = quoteIndex > 0 ? ("/" + (quotes[quoteIndex - 1].key)) : null;
+  const nextLink = quoteIndex < quotes.length - 1 ? ("/" + (quotes[quoteIndex + 1].key)) : null;
 
   return <div className="QuoteRoute">
-    {prevLink && <Link to={prevLink} className="nav nav-prev">&lt;</Link> }
-    {nextLink && <Link to={nextLink} className="nav nav-next">&gt;</Link> }
-    {quote && <Quote quote={quote} />}
+    {quote && <Quote quote={quote} navButtons={<>
+      {prevLink && <Link to={prevLink} className="nav nav-prev">&lt;</Link> }
+      {nextLink && <Link to={nextLink} className="nav nav-next">&gt;</Link> }
+    </>} />}
   </div>
 }
