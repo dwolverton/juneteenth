@@ -37,8 +37,8 @@
       "year": 2014,
       "exact": "2014-07-30"
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Michelle_Obama.jpg",
+    "photoAttribution": "Ali Shaker/VOA / Public domain",
     "details": ""
   },
   {
@@ -331,8 +331,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Nelson_Mandela.jpg",
+    "photoAttribution": "South Africa The Good News / www.sagoodnews.co.za / creativecommons.org/licenses/by/2.0/deed.en",
     "details": ""
   },
   {
@@ -530,8 +530,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Gloria Allred.jpg",
+    "photoAttribution": "Luke Harold / CC0",
     "details": ""
   },
   {
@@ -544,8 +544,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Gloria_Steinem.jpg",
+    "photoAttribution": "Gage Skidmore from Peoria, AZ, United States of America / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
     "details": ""
   },
   {
