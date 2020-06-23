@@ -43,48 +43,6 @@
   },
   {
     "text": [
-      "How pitiable is it to reflect, that although you were so fully convinced of the benevolence of the Father of Mankind, and of his equal and impartial distribution of these rights and privileges, which he hath conferred upon them, that you should at the same time counteract his mercies, in detaining by fraud and violence so numerous a part of my brethren, under groaning captivity and cruel oppression, that you should at the same time be found guilty of that most criminal act, which you professedly detested in others, with respect to yourselves."
-    ],
-    "source": "Benjamin Banneker",
-    "sourceTagline": "Letter to Thomas Jerrerson",
-    "date": {
-      "year": 1791,
-      "exact": "1791-08-19"
-    },
-    "photo": "/api/images/Benjamin_banneker.jpg",
-    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
-    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
-  },
-  {
-    "text": [
-      "I am of the African race, and in the colour which is natural to them of the deepest dye; and it is under a sense of the most profound gratitude to the Supreme Ruler of the Universe."
-    ],
-    "source": "Benjamin Banneker",
-    "sourceTagline": "Letter to Thomas Jerrerson",
-    "date": {
-      "year": 1791,
-      "exact": "1791-08-19"
-    },
-    "photo": "/api/images/Benjamin_banneker.jpg",
-    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
-    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
-  },
-  {
-    "text": [
-      "The colour of the skin is in no way connected with strength of the mind or intellectual powers."
-    ],
-    "source": "Benjamin Banneker",
-    "sourceTagline": "Banneker's Almanac",
-    "date": {
-      "year": 1796,
-      "exact": null
-    },
-    "photo": "/api/images/Benjamin_banneker.jpg",
-    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
-    "details": null
-  },
-  {
-    "text": [
       "I'm sure they have nothing whatever against Negroes, but that's really not the question, you know. The question is really a kind of apathy and ignorance, which is the price we paid for segregation. It's what segregation means, you don't know what's happening on the other side of the wall because you don't want to know."
     ],
     "source": "James Baldwin",
@@ -337,6 +295,48 @@
   },
   {
     "text": [
+      "How pitiable is it to reflect, that although you were so fully convinced of the benevolence of the Father of Mankind, and of his equal and impartial distribution of these rights and privileges, which he hath conferred upon them, that you should at the same time counteract his mercies, in detaining by fraud and violence so numerous a part of my brethren, under groaning captivity and cruel oppression, that you should at the same time be found guilty of that most criminal act, which you professedly detested in others, with respect to yourselves."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "Letter to Thomas Jerrerson",
+    "date": {
+      "year": 1791,
+      "exact": "1791-08-19"
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+  },
+  {
+    "text": [
+      "I am of the African race, and in the colour which is natural to them of the deepest dye; and it is under a sense of the most profound gratitude to the Supreme Ruler of the Universe."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "Letter to Thomas Jerrerson",
+    "date": {
+      "year": 1791,
+      "exact": "1791-08-19"
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": "See https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+  },
+  {
+    "text": [
+      "The colour of the skin is in no way connected with strength of the mind or intellectual powers."
+    ],
+    "source": "Benjamin Banneker",
+    "sourceTagline": "Banneker's Almanac",
+    "date": {
+      "year": 1796,
+      "exact": null
+    },
+    "photo": "/api/images/Benjamin_banneker.jpg",
+    "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
+    "details": null
+  },
+  {
+    "text": [
       "When I was young, I said to God, 'God, tell me the mystery of the universe.'",
       "But God answered, 'That knowledge is for me alone.'",
       "So I said, 'God, tell me the mystery of the peanut.'",
@@ -502,8 +502,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Elie_Wiesel.jpg",
+    "photoAttribution": "John Mathew Smith &amp; www.celebrity-photos.com from Laurel  Maryland, USA / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
     "details": ""
   },
   {
@@ -558,8 +558,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Eleanor_Roosevelt.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -572,8 +572,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Eleanor_Roosevelt.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -586,8 +586,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Eleanor_Roosevelt.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -600,8 +600,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Eleanor_Roosevelt.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -614,8 +614,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Abraham_Lincoln.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -628,8 +628,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Abraham_Lincoln.jpg",
+    "photoAttribution": "Public Domain",
     "details": ""
   },
   {
@@ -642,8 +642,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Albert_Einstein.jpg",
+    "photoAttribution": "Photograph by Orren Jack Turner, Princeton, N.J. Modified with Photoshop by PM_Poon and later by Dantadd. / Public domain",
     "details": ""
   },
   {
@@ -656,8 +656,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/franklin-d-roosevelt.jpg",
+    "photoAttribution": "Public Domain / from https://www.goodfreephotos.com/people/franklin-d-roosevelt-portrait.jpg.php",
     "details": ""
   },
   {
@@ -670,8 +670,8 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
-    "photoAttribution": "",
+    "photo": "/api/images/Benjamin_Franklin.jpg",
+    "photoAttribution": "Joseph Duplessis / Public domain",
     "details": ""
   },
   {
