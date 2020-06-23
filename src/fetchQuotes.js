@@ -1,4 +1,5 @@
-import API_BASE_URL from './apiBaseUrl';
+// const API_BASE_URL = '';
+const API_BASE_URL = 'https://dwolverton.github.io/juneteenth/public';
 
 export default () => fetch(API_BASE_URL + '/api/quotes.json').then(r => r.json()).then(quotes => {
   for (const quote of quotes) {
@@ -7,9 +8,12 @@ export default () => fetch(API_BASE_URL + '/api/quotes.json').then(r => r.json()
     key = key.replace(/\s+/g, "-");
     quote.key = key;
   }
-  console.log(quotes);
   return quotes;
 });
+
+export function getPhotoUrl(photo) {
+  return API_BASE_URL + photo;
+}
 
 function firstWords(s) {
   const m = s.match(/(\S+\s+){5}\S+/);

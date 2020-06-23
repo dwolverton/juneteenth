@@ -1,7 +1,7 @@
 import React from 'react';
 import moment from 'moment';
 import Linkify from 'react-linkify';
-import API_BASE_URL from './apiBaseUrl';
+import { getPhotoUrl } from './fetchQuotes';
 import './Quote.css';
 
 export default ({quote, navButtons}) => {
@@ -10,11 +10,12 @@ export default ({quote, navButtons}) => {
 
   return <main className="Quote">
     <figure className="Quote__image">
-      { quote.photo && <img src={API_BASE_URL + quote.photo} alt={quote.source}/> }
+      { quote.photo && <img src={getPhotoUrl(quote.photo)} alt={quote.source}/> }
       <figcaption>
         <span className="Quote__image__source">{quote.source}</span>
         { quote.sourceTagline && <span className="Quote__image__sourceTagline">{quote.sourceTagline}</span>}
         { date && <span className="Quote__image__date">{date}</span> }
+        { !quote.photo && <span className="Quote__image__nophoto">No Photo</span> }
       </figcaption>
       {navButtons}
     </figure>
