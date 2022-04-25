@@ -375,7 +375,7 @@
     },
     "photo": "/api/images/Benjamin_banneker.jpg",
     "photoAttribution": "https://commons.wikimedia.org/wiki/File:Benjamin_banneker.jpg / Public Domain",
-    "details": null
+    "details": ""
   },
   {
     "text": [
@@ -546,6 +546,34 @@
     },
     "photo": "/api/images/Elie_Wiesel.jpg",
     "photoAttribution": "John Mathew Smith &amp; www.celebrity-photos.com from Laurel  Maryland, USA / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+    "details": ""
+  },
+  {
+    "text": [
+      "You are not born racist. You are born into a racist society. And like anything else, if you can learn it, you can unlearn it. But some people choose not to unlearn it, because they're afraid they'll lose power if they share with other people. We are afraid of sharing power. That's what it's all about."
+    ],
+    "source": "Jane Elliott",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": null,
+    "photoAttribution": null,
+    "details": ""
+  },
+  {
+    "text": [
+      "We don’t need a melting pot in this country, folks. We need a salad bowl. In a salad bowl, you put in different things. You want the vegetables—the lettuce, the cucumbers, the onions, the green peppers—to maintain their identity. You appreciate differences."
+    ],
+    "source": "Jane Elliott",
+    "sourceTagline": "",
+    "date": {
+      "year": null,
+      "exact": null
+    },
+    "photo": null,
+    "photoAttribution": null,
     "details": ""
   },
   {
@@ -726,7 +754,7 @@
       "year": null,
       "exact": null
     },
-    "photo": "",
+    "photo": null,
     "photoAttribution": "",
     "details": ""
   }
